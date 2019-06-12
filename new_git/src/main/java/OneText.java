@@ -7,5 +7,6 @@ public class OneText {
         System.out.println("这是一个修改");
 
  System.out.println("应该可以吧");
+        System.out.println("这是一个修改");
     }
 }
