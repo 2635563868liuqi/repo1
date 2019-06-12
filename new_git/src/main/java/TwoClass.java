@@ -7,5 +7,6 @@ public class TwoClass {
         System.out.println("就是这样啦");
 
         System.out.println("合并冲突");
+        System.out.println("合并冲突");System.out.println("合并冲突");System.out.println("合并冲突");
     }
 }
